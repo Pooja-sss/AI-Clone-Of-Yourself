@@ -1,0 +1,4 @@
+langchain==0.3.7
+langchain-community==0.3.1
+langchain-core==0.3.15
+WPP_Whatsapp==0.4.0
